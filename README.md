@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=namsh1125&show_icons=true&theme=radical)
+![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=namsh1125&show_icons=true&theme=tokyonight)
 
 - 📫 How to reach me: namsh1125@naver.com
