@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **namsh1125/namsh1125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=namsh1125&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namsh1125&layout=compact)](https://github.com/****/github-readme-stats)
+
 
 - 📫 How to reach me: namsh1125@naver.com
