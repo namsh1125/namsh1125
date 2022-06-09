@@ -18,13 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=namsh1125&show_icons=true&theme=tokyonight)
-
-<br>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namsh1125&layout=compact)](https://github.com/namsh1125/github-readme-stats)
-
-<br>
-
 📫 How to reach me: namsh1125@naver.com
 
 <br><br>
