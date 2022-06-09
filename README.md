@@ -30,4 +30,4 @@ Find Me
 
 [![Velog Badge](https://img.shields.io/badge/Velog-000000?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@namsh1125)](https://velog.io/@namsh1125)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCJ-N9hd1SxdmUvNNoqITsPw)](https://www.youtube.com/channel/UCJ-N9hd1SxdmUvNNoqITsPw)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Naver&logoColor=white&link=mailto:namsh1125@naver.com)](mailto:namsh1125@naver.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-00FF00?style=flat-square&logo=Mail&logoColor=white&link=mailto:namsh1125@naver.com)](mailto:namsh1125@naver.com)
