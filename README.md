@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 
 - 📫 How to reach me: namsh1125@naver.com
- [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCJ-N9hd1SxdmUvNNoqITsPw)](https://www.youtube.com/channel/UCJ-N9hd1SxdmUvNNoqITsPw)
+- [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCJ-N9hd1SxdmUvNNoqITsPw)](https://www.youtube.com/channel/UCJ-N9hd1SxdmUvNNoqITsPw)
