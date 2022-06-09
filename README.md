@@ -27,3 +27,8 @@ Here are some ideas to get you started:
 <br>
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCJ-N9hd1SxdmUvNNoqITsPw)](https://www.youtube.com/channel/UCJ-N9hd1SxdmUvNNoqITsPw)
+<a href="https://velog.io/@namsh1125">
+    <img 
+        src="http://img.shields.io/badge/-222222?style=flat&logo=Vector Logo Zone&link=https://velog.io/@namsh1125"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
