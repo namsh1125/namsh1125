@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 📫 How to reach me: namsh1125@naver.com
 
 Find Me
-[![Velog Badge](https://img.shields.io/badge/Velog-000000?style=flat-square&logo=Velog&link=https://velog.io/@namsh1125)](https://velog.io/@namsh1125)
+[![Velog Badge](https://img.shields.io/badge/Velog-000000?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@namsh1125)](https://velog.io/@namsh1125)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCJ-N9hd1SxdmUvNNoqITsPw)](https://www.youtube.com/channel/UCJ-N9hd1SxdmUvNNoqITsPw)
  
