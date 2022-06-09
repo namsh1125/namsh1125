@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 📫 How to reach me: namsh1125@naver.com
 
 <br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=namsh1125)](https://velog.io/namsh1125) 
+<a href="https://velog.io/@colorful-stars" target="_blank">
+ <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
+</a>
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCJ-N9hd1SxdmUvNNoqITsPw)](https://www.youtube.com/channel/UCJ-N9hd1SxdmUvNNoqITsPw)
  
