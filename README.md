@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 <a href="https://velog.io/@namsh1125">
     <img 
         src="http://img.shields.io/badge/-222222?style=flat&logo=Vector Logo Zone&link=https://velog.io/@namsh1125"
-        style="height : auto; margin-left : 10px; margin-right : 10px;">Velog</img>
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
