@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3DDC84&height=300&section=header&text=Seung Hyeon&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0080ff&height=300&section=header&text=Seung_Hyeon&fontSize=70&fontColor=ffffff" />
 </p>
 
 ## 🌟 About me 🌟
