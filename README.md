@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0080ff&height=300&section=header&text=Seung_Hyeon&fontSize=70&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0080ff&height=300&section=header&text=Welcome!&fontSize=70&fontColor=ffffff" />
 </p>
 
 ## 🌟 About me 🌟
+
+Hi! My name is Seung Hyeon
 
 Currently, I am in the third grade of software department at Gachon University.
 
