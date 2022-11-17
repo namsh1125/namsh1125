@@ -4,7 +4,7 @@
 
 ## 🌟 About me 🌟
 
-Hi! My name is Seung Hyeon
+My name is Seung Hyeon
 
 Currently, I am in the third grade of software department at Gachon University.
 
