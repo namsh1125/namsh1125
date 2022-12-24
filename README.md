@@ -8,7 +8,7 @@ My name is Seung Hyeon
 
 Currently, I am in the third grade of software department at Gachon University.
 
-I'm interested in Android (using kotlin), React, and Open source.
+I'm interested in Android (using kotlin) and Open source.
 
 <!-- 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnamsh1125&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
