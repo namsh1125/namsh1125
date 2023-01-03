@@ -18,6 +18,8 @@ I'm interested in Android (using kotlin) and Open source.
 
 [![Velog Badge](https://img.shields.io/badge/Velog-000000?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@namsh1125)](https://velog.io/@namsh1125)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCJ-N9hd1SxdmUvNNoqITsPw)](https://www.youtube.com/channel/UCJ-N9hd1SxdmUvNNoqITsPw)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=namsh1125)](https://solved.ac/namsh1125)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&link=https://www.linkedin.com/in/namsh1125)](https://www.linkedin.com/in/namsh1125)
 <img src="https://img.shields.io/badge/namsh1125@naver.com-2db400?style=flat-square&logo=Gmail&logoColor=white"/>
 
