@@ -6,7 +6,7 @@
 
 My name is Seung Hyeon
 
-Currently, I am in the third grade of software department at Gachon University.
+Currently, I am student of software department at Gachon University.
 
 I'm interested in Backend and Open source.
 
