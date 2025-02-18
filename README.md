@@ -36,6 +36,16 @@
 
 ### Backend
 
+(2025.01 ~ )     📚 [코딩 테스트 보조 슬랙봇](https://github.com/namsh1125/prepare-coding-test)
+
+(2025.01 ~ )     📚 [매일 매일 지식을 쌓을 수 있는 맞춤형 학습 플랫폼, HaruHana](https://github.com/woorifisa-service-dev-4th/backend-haruhana)
+
+(2025.01 ~ )     📅 [우리 FISA 교육생을 위한 스터디룸 예약 서비스](https://github.com/woorifisa4/backend-studyroom-reservation)
+
+(2023.12 ~ 2024.02)     🛍️ [자사 복지몰 서비스, Dpang](https://github.com/kea-dpang)
+
+(2023.10 ~ 2023.12)     🌟 [세 줄로 확인하는 활자 자극 블로그, OnLog](https://github.com/keapoint)
+
 (2023.07 ~ 2023.09)     🛠️ [컴퓨터 수리 정보 제공 앱, FIXIT](https://github.com/FixIt-Dev-Team/Server_TtuckTtak)
 
 ### Frontend
