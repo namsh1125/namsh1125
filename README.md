@@ -1,18 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&color0=ffcb6b&height=180&section=header&text=승현's%20Github%20Page&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=twinkling)
 
-
-
-## 💻 Github Status
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=namsh1125&show_icons=true&count_private=true&icon_color=778899&title_color=778899&text_color=778899&bg_color=fffacd" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namsh1125&layout=compact&icon_color=778899&title_color=778899&text_color=778899&bg_color=fffacd" />
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fnamsh1125&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-
-
 ## 🔨 Skills
 
 <br/>
@@ -97,3 +84,13 @@
 
 
 <br/>
+
+
+
+## 💻 Github Status
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=namsh1125&show_icons=true&count_private=true&icon_color=778899&title_color=778899&text_color=778899&bg_color=fffacd" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namsh1125&layout=compact&icon_color=778899&title_color=778899&text_color=778899&bg_color=fffacd" />
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fnamsh1125&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
